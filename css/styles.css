@@ -12,10 +12,11 @@ body {
   width: 100%; }
 
 .boat::after {
-  content: "fresh frog legs";
+  content: "Frog";
   display: block;
   width: 120px;
   height: 120px;
+  top: -200px;
   background: url("../img/steam.png") no-repeat;
   background-size: 120px;
   position: absolute;
